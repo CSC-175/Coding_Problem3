@@ -5,9 +5,9 @@ void interleave(int *a, int aLength, int *b, int bLength, int *c, int cLength,
                 int *interArr, int interArrLength );
 
 int main() {
-    int a[]={23,52, 16 };
-    int b[]={ 9, 10, 42, 89, 15 };
-    int c[]={ 2,22};
+    int a[]={23,52,16};
+    int b[]={9,10,42,89,15};
+    int c[]={2,22};
     int element = sizeof(int);
     int sumSize = (sizeof(a)+sizeof(b)+sizeof(c))/element;
     int iArray[sumSize];
