@@ -1,8 +1,6 @@
 #include <iostream>
+#include "./interleave.cpp"
 using namespace std;
-
-void interleave(int *a, int aLength, int *b, int bLength, int *c, int cLength,
-                int *interArr, int interArrLength );
 
 int main() {
     int a[]={1,4};
