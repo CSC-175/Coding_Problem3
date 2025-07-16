@@ -8,4 +8,4 @@ The source code for interleave must be placed inside the <b>P3.cpp</b> file.
 
 The animation below shows the interleaving of three arrays into the array named interleaved.   
 
-<img src="Interleaved.gif" alt="map1" width="750">
+<img src="Interleaved.gif" alt="map1" width="850">
