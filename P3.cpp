@@ -1,1 +1,1 @@
-// Place your solution code to definition the interleave function here
+// Place your solution code to define the interleave function here
